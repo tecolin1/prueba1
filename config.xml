@@ -1,0 +1,18 @@
+<widget xmlns ="http://www.w3.org/ns/widgets"
+      xmlns:gap = "http://phonegap.com/ns/1.0"
+      id        ="com.phonegap.prueba1"
+      versionCode ="10"
+      version ="1.0.0"  >
+      
+      
+      <name> Prueba 1 </name>
+      
+      <description>
+        Prueba 1 de sitio 
+      </descrption>
+      
+      <author href="tupaginaweb.com"  email=2tumail@______.com">
+      web
+      </author>
+      
+ </widget>
